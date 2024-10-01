@@ -1,21 +1,20 @@
 
+# Hi there! 👋 We are **Woyce Tech** 🚀
 
-# Hi there! 👋 we are **woyce tech** 🚀
-
-👨‍💻 **Full-Stack Developer | Backend Specialist | Machine Learning Enthusiast**  
-🌟 Passionate about building scalable, efficient, and user-friendly applications. With over 8 years of experience, I thrive on solving complex challenges and turning innovative ideas into reality!
+👨‍💻 **Full-Stack Developers | Backend Specialists | Machine Learning Enthusiasts**  
+🌟 Passionate about building scalable, efficient, and user-friendly applications. With over 8 years of experience, we thrive on solving complex challenges and turning innovative ideas into reality!
 
 ---
 
-### 🛠 **What I'm working on**:  
+### 🛠 **What we're working on**:  
 - Developing **SaaS applications** that leverage cutting-edge tech to streamline business processes.  
 - Creating **Voice AI bots** using **Twilio** and **ChatGPT** for enhanced customer interaction.  
 - Designing intelligent **chatbots** and **machine learning solutions** that make life easier!
 
 ---
 
-### 🌱 **What I'm learning**:  
-- Expanding my expertise in **ReactJS** for dynamic web applications.  
+### 🌱 **What we're learning**:  
+- Expanding our expertise in **ReactJS** for dynamic web applications.  
 - Delving deeper into **advanced AI models** and **NLP techniques** to build smarter systems.
 
 ---
@@ -27,7 +26,7 @@
 
 ---
 
-### 💬 **Ask me about**:  
+### 💬 **Ask us about**:  
 - Backend development with **Node.js** & **Python**.  
 - Deploying applications on **AWS** for scalability.  
 - Integrating **Twilio** for voice and messaging solutions.  
@@ -35,17 +34,17 @@
 
 ---
 
-### 📫 **How to reach me**:  
+### 📫 **How to reach us**:  
 - **Email**: shyamsinh@woyce.io  
-- **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/parmar-shyamsingh-665584107/)  
-- **GitHub**: Check out my projects right here! 👇
+- **LinkedIn**: [Connect with us!](https://www.linkedin.com/in/parmar-shyamsingh-665584107/)  
+- **GitHub**: Check out our projects right here! 👇
 
 ---
 
 ### ⚡ **Fun facts**:  
-- When I’m not coding, you’ll find me exploring nature around **Lonavala** or enjoying local delicacies!  
-- I’m also a big fan of **strategy games** and love the challenge of a good puzzle 🧩.  
-- I've recently started diving into **React Native** to expand my mobile development skills!
+- When we're not coding, you’ll find us exploring nature around **Lonavala** or enjoying local delicacies!  
+- We’re also big fans of **strategy games** and love the challenge of a good puzzle 🧩.  
+- We've recently started diving into **React Native** to expand our mobile development skills!
 
 ---
 
@@ -58,4 +57,3 @@
 - **Other Tech**: Dialogflow, ChatGPT, ManyChat
 
 ---
-
