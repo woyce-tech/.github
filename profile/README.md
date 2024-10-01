@@ -1,4 +1,6 @@
 
+---
+
 # Hi there! 👋 We are **Woyce Tech** 🚀
 
 👨‍💻 **Full-Stack Developers | Backend Specialists | Machine Learning Enthusiasts**  
@@ -55,5 +57,15 @@
 - **Databases**: MongoDB, MS SQL  
 - **DevOps**: Docker, CI/CD  
 - **Other Tech**: Dialogflow, ChatGPT, ManyChat
+
+---
+
+### 🌐 **Portfolio**:
+
+1. **Healthcare Web/Mobile Application:** [Health Wealth Safe](https://healthwealthsafe.com/)  
+2. **AI-Driven Hiring and Training Platform:** [Hcomb.ai](https://hcomb.ai/)  
+3. **Review App:** [Quick Reviews](https://quickreviews.click/)  
+4. **Stock Market App:** [Stockly](https://developer.stockly.us/)  
+5. **Online Business Law Service:** [Incorporight](https://incorporight.com/)
 
 ---
